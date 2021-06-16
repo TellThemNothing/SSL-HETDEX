@@ -5,4 +5,9 @@ SwAV itself:
 https://github.com/facebookresearch/swav
 https://arxiv.org/abs/2006.09882
 
+Positional encoding for transformer:
+http://nlp.seas.harvard.edu/2018/04/03/attention.html
+
+transformer:
+https://arxiv.org/abs/1706.03762
 
