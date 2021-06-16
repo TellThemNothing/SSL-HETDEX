@@ -1,0 +1,8 @@
+Lightning implementation of SwAV
+https://github.com/PyTorchLightning/Lightning-Bolts/blob/master/pl_bolts/models/self_supervised/swav/swav_module.py#L27-L481
+
+SwAV itself:
+https://github.com/facebookresearch/swav
+https://arxiv.org/abs/2006.09882
+
+
